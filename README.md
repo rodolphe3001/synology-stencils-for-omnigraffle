@@ -1,0 +1,1 @@
+# synology-stencils-for-omnigraffle
